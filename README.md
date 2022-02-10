@@ -1,47 +1,20 @@
-# Unit 03 Mini-Project: Rock, Paper, Scissors
+# Rock, Paper, Scissors Game
 
-In this activity, you will work with a group to build a game using only JavaScript.
+## Description
+This is a simple Rock, Paper, Scissors game that is played by entering R, P, or S in user prompts to choose your object. The computer chooses an object in return and win/loss stats are displayed at the end of each round.
 
-## Instructions
+## Deployment
+[Deployment Link](https://yyb613.github.io/rock-paper-scissors)
 
-The completed application should meet the following criteria:
+![screenshot](assets/images/screenshot.png)
 
-* As a user, I want to play Rock, Paper, Scissors against an automated opponent.
+## License
 
-* As a user, I can enter R, P, or S to signify my choice of rock, paper, or scissors.
+<img src="https://img.shields.io/badge/license-MIT-red">
+  
+This project is licensed under the MIT License.
 
-* As a user, I expect the computer to choose R, P, or S in return.
+For more information on this license, please visit [their website](https://www.mit.edu/~amini/LICENSE.md).
 
-* As a user, I want the option to play again whether I win or lose.
-
-* As a user, I want to see my total wins, ties, and losses after each round.
-
-### Specifications
-
-* Must use the `alert()`, `confirm()`, and `prompt()` methods to collect user input and display information to the user.
-
-* The computer's selection must be random to ensure a fair game.
-
-## 💡 Notes
-
-Refer to the documentation:
-
-* [MDN Web Docs on window.alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
-
-* [MDN Web Docs on window.confirm()](https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm)
-
-* [MDN Web Docs on window.prompt()](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
-
-* [MDN Web Docs on Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
-
-## 🏆 Bonus
-
-If you have completed this activity, work through the following challenge with your group to further your knowledge:
-
-* How can you customize the appearance of the `alert()`, `confirm()`, and `prompt()` dialog boxes?
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Contact
+If you have any questions, you can find me [here](https://yyb613.github.io/portfolio).
